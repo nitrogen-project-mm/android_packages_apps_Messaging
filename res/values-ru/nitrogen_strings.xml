@@ -19,4 +19,8 @@
     <!-- Swipe to delete -->
     <string name="swipe_deletes_conversation_text">Свайп для удаления диалога</string>
 
+    <string name="unicode_stripping_pref_title">Заменять юникод</string>
+    <string name="pref_unicode_stripping_leave_intact">Не заменять символы юникода</string>
+    <string name="pref_unicode_stripping_non_encodable">Заменять некодируемые символы</string>
+    <string name="pref_unicode_stripping_all">Заменять все символы юникода</string>
 </resources>
