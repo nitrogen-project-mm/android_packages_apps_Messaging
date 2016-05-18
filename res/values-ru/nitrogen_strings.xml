@@ -17,8 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Swipe to delete -->
-    <string name="swipe_deletes_conversation_text">Свайп для удаления диалога</string>
-
+    <string name="swipe_right_deletes_conversation_text">Свайп вправо для удаления диалога</string>
     <string name="unicode_stripping_pref_title">Заменять юникод</string>
     <string name="pref_unicode_stripping_leave_intact">Не заменять символы юникода</string>
     <string name="pref_unicode_stripping_non_encodable">Заменять некодируемые символы</string>
